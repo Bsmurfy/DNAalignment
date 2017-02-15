@@ -197,8 +197,3 @@ def readfasta(filename):
     return resultList
 
 main()
-
-
-
-
-"#DNAalignment" 
